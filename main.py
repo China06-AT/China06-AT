@@ -6,3 +6,4 @@ if b >18:
 else:
     print("Вход разрешен")
 print("1")
+print("2")
